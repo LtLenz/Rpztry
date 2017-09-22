@@ -1,0 +1,4 @@
+C:\work\Rpztry\Lab_1\Shtuka\Shtuka\bin\Debug\Shtuka.exe
+C:\work\Rpztry\Lab_1\Shtuka\Shtuka\bin\Debug\Shtuka.pdb
+C:\work\Rpztry\Lab_1\Shtuka\Shtuka\obj\x86\Debug\Shtuka.exe
+C:\work\Rpztry\Lab_1\Shtuka\Shtuka\obj\x86\Debug\Shtuka.pdb
