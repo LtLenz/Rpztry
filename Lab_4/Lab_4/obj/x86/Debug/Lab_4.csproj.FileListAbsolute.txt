@@ -1,0 +1,4 @@
+C:\work\Rpztry\Lab_4\Lab_4\bin\Debug\Lab_4.exe
+C:\work\Rpztry\Lab_4\Lab_4\bin\Debug\Lab_4.pdb
+C:\work\Rpztry\Lab_4\Lab_4\obj\x86\Debug\Lab_4.exe
+C:\work\Rpztry\Lab_4\Lab_4\obj\x86\Debug\Lab_4.pdb
