@@ -1,0 +1,7 @@
+C:\work\Rpztry\Lab_5\Lab_5\bin\Debug\Lab_5.exe.config
+C:\work\Rpztry\Lab_5\Lab_5\bin\Debug\Lab_5.exe
+C:\work\Rpztry\Lab_5\Lab_5\bin\Debug\Lab_5.pdb
+C:\work\Rpztry\Lab_5\Lab_5\obj\Debug\Lab_5.csprojResolveAssemblyReference.cache
+C:\work\Rpztry\Lab_5\Lab_5\obj\Debug\Lab_5.csproj.CoreCompileInputs.cache
+C:\work\Rpztry\Lab_5\Lab_5\obj\Debug\Lab_5.exe
+C:\work\Rpztry\Lab_5\Lab_5\obj\Debug\Lab_5.pdb
